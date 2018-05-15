@@ -113,7 +113,7 @@ To capture good driving behavior, I first recorded one lap on track one using ce
 
 ![Center Lane Driving Sample][image1]
 
-I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to get back to the center of the road in case it veers off toward the edges. These images show what a recovery looks like starting from the end of the bridge and the dirt road :
+I then recorded the vehicle recovering from the left side and right sides of the road back to center so that the vehicle would learn to get back to the center of the road in case it veers off toward the edges. These images show what a recovery looks like starting from the dirt edge:
 
 ![Recovery Sample 1][image2]
 ![Recovery Sample 2][image3]
